@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, This is Apeksha Shakya! 👋
 
-<!--
-**apeksha-rgb/apeksha-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Graduate Student , Learning Front-end Development.Specialised in HTML5, CSS3, JavaScript, React. I believe in practical approach to learn something, either create your own stuff or collaborate in someone else's creation.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- I'm currently learning React.
+- I design good website designs, glimpse can be seen here [fitspaceStudio](https://fitspace-studio-7e8f57.webflow.io).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+- Connect with me on [linkedin](https://www.linkedin.com/in/apeksha-shakya-648637187/)
+
+Thanks for stopping by! Let's Connect and explore the tech world together.
+
+
